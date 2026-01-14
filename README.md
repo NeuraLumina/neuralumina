@@ -20,9 +20,20 @@
 ---
 
 ### Our Expertise
-- **Mobile Development** — Native & Cross-Platform (Flutter, React Native, Kotlin)
-- **Full Stack Web** — Frontend (React, Vue, Next.js) + Backend (Node.js, Python, Go)
-- **AI & Machine Learning** — Automation, Computer Vision, NLP, Predictive Systems
+- **Mobile Development** — Native & Cross-Platform (Flutter, React Native, Kotlin)  
+- **Full Stack Web** — Frontend (React, Vue, Next.js) + Backend (Node.js, Python, Go)  
+- **AI & Machine Learning** — Automation, Computer Vision, NLP, Predictive Systems  
+
+### Official Contact Channels
+- **Website** (recommended for all inquiries and project discussions):  
+  https://neuralumina.officialsite  
+
+- **Official WhatsApp Business** (verified for direct communication):  
+  +260 750 830 119  
+  *(Always verify this number matches the one listed on our official website before messaging.)*
+
+- **Email** (for reference only – use website form for projects):  
+  neuralumina@gmail.com  
 
 Ready to transform your vision into reality?  
-→ **Email us:** neuralumina@gmail.com
+Start via our official website or verified WhatsApp number above.
