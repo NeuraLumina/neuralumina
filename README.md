@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/120x120/0f0f2a/00ffff?text=NL" alt="Neura Lumina Logo" width="120"/>
+  <img src="https://avatars.githubusercontent.com/u/126507342?v=4&size=128" alt="Neura Lumina Logo" width="120"/>
 </p>
 
 <h1 align="center">Neura Lumina</h1>
