@@ -29,7 +29,7 @@
   https://neuralumina.officialsite  
 
 - **Official WhatsApp Business** (verified for direct communication):  
-  +260 750 830 119  
+  +260 779 653 636  
   *(Always verify this number matches the one listed on our official website before messaging.)*
 
 - **Email** (for reference only – use website form for projects):  
