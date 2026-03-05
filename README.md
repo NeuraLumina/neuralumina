@@ -26,14 +26,10 @@
 
 ### Official Contact Channels
 - **Website** (recommended for all inquiries and project discussions):  
-  https://neuralumina.officialsite  
-
-- **Official WhatsApp Business** (verified for direct communication):  
-  +260 779 653 636  
-  *(Always verify this number matches the one listed on our official website before messaging.)*
+  https://neuralumina.com  
 
 - **Email** (for reference only – use website form for projects):  
-  neuralumina@gmail.com  
+  neuralumina@neuralumina.com  
 
 Ready to transform your vision into reality?  
 Start via our official website or verified WhatsApp number above.
