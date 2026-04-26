@@ -54,5 +54,5 @@ For general correspondence: [neuralumina@gmail.com](mailto:neuralumina@gmail.com
 ---
 
 <p align="center">
-  <sub>Precision · Innovation · Intelligence · © 2025 Neura Lumina</sub>
+  <sub>Precision · Innovation · Intelligence · © 2026 Neura Lumina</sub>
 </p>
